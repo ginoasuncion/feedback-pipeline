@@ -1,0 +1,6 @@
+gunicorn
+flask
+google-cloud-language
+google-cloud-secret-manager
+requests
+
